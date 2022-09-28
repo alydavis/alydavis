@@ -2,7 +2,7 @@ Hello, I'm Alyssa 👋
 
 
 <br> 🎓 Student at UNC Chapel Hill, Data Analytics
-<br> 📈 Open to work: entry level data analyst 
+<br> 📈 Python, JavaScript, SQL, Visualization
 <br> 📧 alyssamaree@gmail.com
 <br> 😄 Pronouns: she/her
 
