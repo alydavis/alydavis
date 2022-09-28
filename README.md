@@ -1,10 +1,13 @@
 Hello, I'm Alyssa 👋
 
-<br> 🔭 I’m currently working on ...
-<br> 🌱 I’m currently learning ...
-<br> 👯 I’m looking to collaborate on ...
-<br> 🤔 I’m looking for help with ...
-<br> 💬 Ask me about ...
-<br> 📫 How to reach me: ...
+
+<br> 🎓 Student at UNC Chapel Hill, Data Analytics
+<br> 📈 Open to work: entry level data analyst 
+<br> 📧 alyssamaree@gmail.com
 <br> 😄 Pronouns: she/her
-<br> ⚡ Fun fact:
+
+
+When I'm not coding:
+  - 🐱 🐱 cat mom to Binxy and Salem
+  - 🌻 backyard gardener
+  - 📚 sci-fi reader
