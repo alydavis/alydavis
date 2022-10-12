@@ -7,4 +7,4 @@ Hello, I'm Alyssa 👋
 <br> 📚 Sci-fi reader
 
 Interested in working together? 
-📧 alyssamaree@gmail.com
+<br> [https://www.linkedin.com/in/alyssa-simpson-davis/](https://www.linkedin.com/in/alyssa-simpson-davis/)
