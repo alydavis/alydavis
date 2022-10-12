@@ -1,5 +1,5 @@
 Hello, I'm Alyssa 👋
-<br> 🎓 Student at UNC Chapel Hill, Data Analytics
+<br> 🎓 UNC Chapel Hill, Data Analytics Grad
 <br> 📈 Python, JavaScript, SQL, Visualization
 <br> 😄 Pronouns: she/her
 <br> 🐱 Cat mom to Binxy and Salem
