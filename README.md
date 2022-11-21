@@ -6,5 +6,5 @@ Hello, I'm Alyssa 👋
 <br> 🌻 Backyard gardener
 <br> 📚 Sci-fi reader
 
-Interested in working together? 
-<br> [https://www.linkedin.com/in/alyssa-simpson-davis/](https://www.linkedin.com/in/alyssa-simpson-davis/)
+Interested in working together? Connect on [LinkedIn](https://www.linkedin.com/in/alyssa-simpson-davis/) or 
+:email: alyssamaree@gmail.com. 
